@@ -6,6 +6,7 @@ Esta aplicação foi desenvolvida com o intuito de cadastrar desenvolvedores em 
 
 ### Cadastrar Desenvolvedor
 Nesta rota, é possível cadastrar um novo desenvolvedor fornecendo as informações necessárias.
+Obs: Para cadastrar um novo desenvolvedor é necessário ter um nível cadastrado!
 
 ![Cadastrar Desenvolvedor](to_readme/cadastrar-dev.gif)
 
