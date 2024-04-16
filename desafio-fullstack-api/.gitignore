@@ -1,0 +1,4 @@
+node_modules
+/src/database/database.db
+.env
+.vscode
